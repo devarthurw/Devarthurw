@@ -22,4 +22,4 @@
 
 ## ESTATÍSTICAS
 
-![devarthurw GitHub stats](https://github-readme-stats.vercel.app/api?username=Araujo550&show_icons=true&theme=radical)
+![devarthurw GitHub stats](https://github-readme-stats.vercel.app/api?username=devarthurw&show_icons=true&theme=radical)
